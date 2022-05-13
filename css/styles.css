@@ -11,6 +11,11 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+main {
+    max-width: 50%;
+    margin: auto;
+}
+
 #propicture {
     width: 700px;
 }
